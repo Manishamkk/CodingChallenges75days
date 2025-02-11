@@ -1,7 +1,6 @@
-package DAy7;
+package Day7;
 
-public class FactorialNum {
-
+public class Factorial {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
