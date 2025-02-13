@@ -1,4 +1,4 @@
-package Day25;
+package Day20;
 
 import java.util.Arrays;
 import java.util.Collections;
